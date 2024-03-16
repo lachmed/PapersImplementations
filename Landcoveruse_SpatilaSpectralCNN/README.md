@@ -1,3 +1,9 @@
+Paper overview:
+The authors propose a very interesting method for landcover classification based on 1D CNN and 2D CNN. They used features extracted from both Spatial and Spectral values of each pixel:
+
+- Spectral : the values of pixel in each spectral band (channel) of the multispectral remote sensing image.
+- Spatial: the values of the pixels surrounding the current pixel (pixel of interest centred patches) in all spectral bands (channels)
+
 What we are trying to implement:
 
 ![alt text](image.png)
