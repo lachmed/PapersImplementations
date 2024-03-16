@@ -9,3 +9,7 @@ https://www.researchgate.net/publication/317053979_Learning_and_Transferring_Dee
 Data Link:
 
 https://www.ehu.eus/ccwintco/index.php/Hyperspectral_Remote_Sensing_Scenes
+
+Now working on:
+
+Finding out what is wrong with the loss !
